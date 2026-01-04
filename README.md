@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
-  - [VideoToFrames Editor](https://github.com/RaidahTahiya/videos-to-frames) <b><i>(Potentially NSFW)</b></i>
+  - [VideoToFrames Editor](https://github.com/RaidahTahiya/videos-to-frames)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
