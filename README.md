@@ -1,4 +1,4 @@
-<h1>Hi, I'm Raidah! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Raidah! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a > Year 1 Computer Science Student</a>
 
 <h2>👨‍💻 Projects:</h2>
 
