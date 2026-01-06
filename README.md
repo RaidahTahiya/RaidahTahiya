@@ -1,6 +1,6 @@
 <h1>Hi, I'm Raidah! <br/><a></a> Programmer</a>, <a > Year 1 Computer Science Student</a>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👩‍💻 My Work:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
