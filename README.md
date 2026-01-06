@@ -3,7 +3,7 @@
 <h2>👩‍💻 My Work:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/RaidahTahiya/data-structures-and-algorithms)
 - <b>Python</b>
   - [VideoToFrames](https://github.com/RaidahTahiya/videos-to-frames)
   - [PhotoEditor](https://github.com/RaidahTahiya/photo-editor)
