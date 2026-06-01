@@ -11,6 +11,8 @@
   - [CalendarSimulator](https://github.com/RaidahTahiya/YOUR-REPO-NAME-HERE)
 - <b>Haskell</b>
   - Coming soon!
+- <b> Fullstack Apps/Games (JavaScript, HTML, CSS, JSON, SQL, PHP) </b>
+
 
 <h2>🤳 Connect with me:</h2>
 
