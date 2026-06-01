@@ -1,22 +1,23 @@
-<h1>Hi, I'm Raidah! <br/><a></a> Programmer</a>, <a > Year 1 Computer Science Student</a>
+<h1>Hi, I'm Raidah! <br/> Programmer, Year 1 Computer Science Student</h1>
 
 <h2>👩‍💻 My Work:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/RaidahTahiya/data-structures-and-algorithms)
+  - [Practicing DS & Algos in Python](https://github.com/RaidahTahiya/data-structures-and-algorithms)
 - <b>Python</b>
   - [VideoToFrames](https://github.com/RaidahTahiya/videos-to-frames)
   - [PhotoEditor](https://github.com/RaidahTahiya/photo-editor)
 - <b>Java</b>
-  - [CalenderSimulator](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [CalendarSimulator](https://github.com/RaidahTahiya/YOUR-REPO-NAME-HERE)
 - <b>Haskell</b>
-  - 
+  - Coming soon!
 
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="Raidah Tahiya | LinkedIn" width="22px" 
 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[linkedin]: www.linkedin.com/in/raidah-tahiya-63bb09332
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
