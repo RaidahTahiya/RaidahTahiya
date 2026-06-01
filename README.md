@@ -1,4 +1,4 @@
-<h1>Hi, I'm Raidah! <br/> Programmer, Year 1 Computer Science Student</h1>
+<h1>Hi, I'm Raidah! <br/> Programmer, Year 2 Computer Science Student</h1>
 
 <h2>👩‍💻 My Work:</h2>
 
