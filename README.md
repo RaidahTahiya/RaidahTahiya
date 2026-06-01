@@ -12,6 +12,7 @@
 - <b>Haskell</b>
   - Coming soon!
 - <b> Fullstack Apps/Games (JavaScript, HTML, CSS, JSON, SQL, PHP) </b>
+  - [Increments Game](https://github.com/RaidahTahiya/increments-game)
 
 
 <h2>🤳 Connect with me:</h2>
