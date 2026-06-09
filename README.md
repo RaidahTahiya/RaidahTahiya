@@ -16,7 +16,7 @@
   - [Frontend Web Layout](https://github.com/RaidahTahiya/news-layout-frontend)
   - [Whac-a-Mole](https://github.com/RaidahTahiya/whac-a-mole)
 - <b> Cloud & DevOps </b>
--  [Azure Cloud Cost Dashboard](https://github.com/RaidahTahiya/azure-cloud-cost)
+  - [Azure Cloud Cost Dashboard](https://github.com/RaidahTahiya/azure-cloud-cost)
 
 <h2>🤳 Connect with me:</h2>
 
